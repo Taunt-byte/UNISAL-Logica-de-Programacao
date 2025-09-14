@@ -3,6 +3,8 @@
 + Professor : Bruno B.
 + Sala: LAB-09
 + Horario: 19:00 até 23:30
++ Duração: 07/2025 até 11/2025 
+
 
 ## Executar codigo em C
 
